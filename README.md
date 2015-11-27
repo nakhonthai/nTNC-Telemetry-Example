@@ -1,2 +1,2 @@
 # nTNC-Telemetry-Example
-Control nTNC and send telemetry data to APRS.
+Arduino Pro mini control nTNC-Tracker/nTNC-Digipeater and send telemetry data to APRS
