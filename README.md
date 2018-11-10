@@ -9,5 +9,5 @@ Arduino Pro mini control nTNC-Tracker/nTNC-Digipeater and send telemetry data to
 ![image](http://www.dprns.com/shop/image/cache/data/aprs/nTNC_Tracker_7-500x500.jpg)
 
 ## Product Link
-http://www.dprns.com/shop/index.php?route=product/product&product_id=81
-http://www.dprns.com/shop/index.php?route=product/product&product_id=65
+- http://www.dprns.com/shop/index.php?route=product/product&product_id=81
+- http://www.dprns.com/shop/index.php?route=product/product&product_id=65
